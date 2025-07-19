@@ -3,17 +3,20 @@ main:
   - title: "about"
     url: "/#about-me"
 
-  - title: "news"
-    url: "/#-news"
-
   - title: "publications"
     url: "/#-publications"
 
   - title: "educations"
     url: "/#-educations"
 
-  - title: "internships"
-    url: "/#-internships"
+  - title: "work experience"
+    url: "/#-work-experience"
 
-  - title: "blogs"
-    url: "/#-blogs"
+  - title: "research projects"
+    url: "/#-research-projects"
+
+  - title: "CV"
+    url: "/docs/PHD_CV_PHD_2025.pdf"
+
+ 
+ 

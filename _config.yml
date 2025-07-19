@@ -1,20 +1,20 @@
-# Welcome to Jekyll!
+# WELCOME TO JEKYLL!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# THIS CONFIG FILE IS MEANT FOR SETTINGS THAT AFFECT YOUR ENTIRE SITE, VALUES
+# WHICH YOU ARE EXPECTED TO SET UP ONCE AND RARELY NEED TO EDIT AFTER THAT.
+# FOR TECHNICAL REASONS, THIS FILE IS *NOT* RELOADED AUTOMATICALLY WHEN YOU USE
+# `JEKYLL SERVE`. IF YOU CHANGE THIS FILE, PLEASE RESTART THE SERVER PROCESS.
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Jinxiang Xie"
+# SITE SETTINGS
+LOCALE                   : "EN-US"
+TITLE                    : "Huishan Wang"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Huishan Wang"
 description              : ""
-url                     : "https://jxtse.github.io"
+url                     : "https://huishanwang.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "itsivy33.github.io/huishanwang.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,14 +27,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
-  avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  name             : "Huishan Wang"
+  avatar           : "images/IMG_3655.jpg"
+  bio              : "Texas A&M University"
+  location         : "College Station, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  email            : "huishanwang@tamu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,13 +43,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : "itsivy_33"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -73,11 +73,10 @@ t:
   en:
     home: "Home"
     about: "About Me"
-    news: "News"
     publications: "Publications"
     educations: "Educations"
-    internships: "Internships"
-    blogs: "Blogs"
+    work experience: "Work Experience"
+    research projects: "Research Projects"
   zh:
     home: "首页"
     about: "关于"
