@@ -30,7 +30,7 @@ author:
   name             : "Huishan Wang"
   avatar           : "images/IMG_3655.jpg"
   bio              : "Texas A&M University"
-  location         : "College Station, USA"
+  location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
@@ -73,10 +73,10 @@ t:
   en:
     home: "Home"
     about: "About Me"
+    news: "News"
+    education: "Education"
+    professional experience: "Professional Experience"
     publications: "Publications"
-    educations: "Educations"
-    work experience: "Work Experience"
-    research projects: "Research Projects"
   zh:
     home: "首页"
     about: "关于"

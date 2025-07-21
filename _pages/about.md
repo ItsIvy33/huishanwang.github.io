@@ -295,27 +295,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📖 My name is <span class="accent-text">Huishan Wang</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am Ph.D. student at <i class="fas fa-university"></i> **Texas A&M University**. I earned my Master's degree in Communication from <i class="fas fa-university"></i> **Peking University**, earned Bachelor's degree in Food Science and Techonology from <i class="fas fa-university"></i> **Beijing Forestry University**,  Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+🐼 Howdy! My name is <span class="accent-text">Huishan Wang</span>, a Ph.D. student at <i class="fas fa-university"></i> <strong> **Texas A&M University** School of Public Health</strong><a href="https://public-health.tamu.edu/" class="link-accent">, where I am fortunate to be advised by <a href="https://shawnchiang.com/" class="link-accent">Dr. Shawn Chiang</a> and co-advised by <a href="https://public-health.tamu.edu/directory/ma.html" class="link-accent">Dr. Ping Ma</a>. I previously worked as a research assistant at <i class="fas fa-hospital-alt"></i> <strong>Children's Hospital of Fudan University</strong> <a href="https://ch.shmu.edu.cn/" class="link-accent">, gaining valuable experience in public health research. Before that, I earned my Master’s degree in Communication from <i class="fas fa-university"></i> <strong>**Peking University**</strong><a href="https://www.pku.edu.cn/" class="link-accent">, under the mentorship of <a href="https://sjc.pku.edu.cn/info/1130/11658.htm" class="link-accent">Prof. Jing Xu</a>. Prior to this, I earned Bachelor’s degree in Food Science and Technology from <i class="fas fa-university"></i> <strong>**Beijing Forestry University**</strong><a href="https://www.bjfu.edu.cn/index.htm/" class="link-accent">.
+
+🎨 Outside of academics, I’m an open-minded and curious person who finds joy in many things. I love journaling and enjoy visiting museums, art exhibits, and wildlife safaris. I’m also a heavy social media user who loves scrolling through videos on TikTok and Rednotes. I also enjoy watching stand-up comedy and all kinds of TV series: my all-time favorite American show is <em>Frasier</em>, and my favorite Japanese anime is <em>Inuyasha</em>. I’m a big fan of gaming too! I enjoy everything from cozy Nintendo Switch games to competitive mobile games, soduku, and so on! Gaming helps me relax, recharge, and connect with others.
+
+Life is full of color, and I try to live mine with energy, creativity, and a good sense of humor.
+
+Feel free to connect with me if you’d like to chat about research—or anything from health communication to life experiences! This site is a reflection of my journey, projects, and passions.
+
+💖 Thanks for visiting!💖
+
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
+My research interests focus on <span class="primary-gradient-text">health communication, mental health, maternal and adolescent health, and the role of social media in shaping health behaviors and perceptions</span>. I am especially interested in how individuals engage with health information, the role of stigma and acculturation in Asian American communities, and the use of social media to improve health outcomes. 
 </div>
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
+**I am actively seeking research collaboration**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Health Science Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
+      <li>Research focus on <span class="accent-text"></span>health communication</li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
+      <li>Publications at <span class="accent-text">APHA</span>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
+    <h3><i class="fas fa-pen-fancy"></i> Foodie Explorer</h3>
     <ul>
       <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
@@ -326,7 +334,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
     <ul>
-      <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
+      <li>Visited <span class="accent-text">5 countries</span> worldwide</li>
       <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
       <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
     </ul>
@@ -334,152 +342,50 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 </div>
 
 # <i class="fas fa-fire"></i> News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25). See you in Philadelphia!
-- *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+- *2025.06*: &nbsp;🎉🎉 One abstract was accepted by The 2025 Annual APHA Conference. See you in Washington D.C.!
+- *2024.08*: &nbsp; Started my Ph.D. journy in Public Health at Texas A&M University.
 
 # <i class="fas fa-file-alt"></i> Publications 
 
 <div class="publication-box">
   <div class="publication-image">
-    <div class="publication-badge">AAAI 2025</div>
+    <div class="publication-badge">APHA 2025</div>
     <img src="images/Example_page-0001.png" alt="DSGram Paper">
   </div>
   <div class="publication-content">
-    <h3 class="publication-title">DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models</h3>
+    <h3 class="publication-title">Perceived Social Isolation and Health Information Seeking via Social Media Among Cancer Survivors</h3>
     <div class="publication-authors">
-      <strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan
+      <strong>Huishan Wang</strong>, Shawn Chiang, Ping Ma
     </div>
     <div class="publication-venue">
-      In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+      In The Annual American Public Health Association Conference 2025
     </div>
-    <div class="publication-links">
-      <a href="https://arxiv.org/abs/2412.12832" class="publication-link">
-        <i class="fas fa-file-pdf"></i> Arxiv
-      </a>
-      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="publication-link">
-        <i class="fab fa-github"></i> Code
-      </a>
     </div>
   </div>
 </div>
 
-# <i class="fas fa-graduation-cap"></i> Educations
-- *2025.09 - Present*: &nbsp;Master of Science at Kuang Yaming Honors School, <span class="primary-gradient-text">Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
-
-# <i class="fas fa-laptop-code"></i> Internships
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
-
-# <i class="fas fa-blog"></i> Blogs
-
-<div class="blog-grid">
-<div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">June, 2025</div>
-      <img src="images/pic06.jpg" alt="The Limits of My Language Mean the Limits of My World">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">The Limits of My Language Mean the Limits of My World</div>
-      <div class="blog-description">Drawing on Wittgenstein's philosophy, a recent paper argues that our existing language might be the fundamental bottleneck.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/the-limits-of-my-language-are-the-limits-of-my-world-can-we-ever-truly-understand-ai-f7cc72327dac" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
+<div class="publication-box">
+  <div class="publication-image">
+    <img src="images/Example_page-0001.png" alt="DSGram Paper">
   </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">January, 2025</div>
-      <img src="images/pic04.jpg" alt="Beyond the Future of AI">
+  <div class="publication-content">
+    <h3 class="publication-title">Nativity Differences in Awareness and Knowledge About HPV Infection and Vaccination Among Foreign- and US-Born Asians: Findings from a National Population-Based Sample.</h3>
+    <div class="publication-authors">
+       Shawn Chiang, <strong>Huishan Wang</strong>,MS Sifat, Ping Ma
     </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Beyond the Future of AI: The Dreams and Deceptions of Cryptocurrency</div>
-      <div class="blog-description">My vision of the future: from Bitcoin to an AGI-driven decentralized society. We must design a more sophisticated trust mechanism than blockchain to install “guardrails” for AI.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
+    <div class="publication-venue"> 
+      In the American Society of Preventive Oncology Annual Conference
     </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2024</div>
-      <img src="images/pic05.jpg" alt="LexiMind">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">LexiMind: An Open-Source LLM-Powered Vocabulary Builder</div>
-      <div class="blog-description">LexiMind is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/67a48f0d000000001800721c?source=webshare&xhsshare=pc_web&xsec_token=ABXUfGRE_zHTnXbEyaNmuelBHrgbyYI_AxjJL2AYctNxE=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-info-circle"></i> Introduction
-        </a>
-        <a href="https://github.com/jxtse/LexiMind" class="blog-link">
-          <i class="fab fa-github"></i> Project
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">July, 2024</div>
-      <img src="images/pic02.jpg" alt="NLP Learning Path">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">My NLP Learning Path as a Mathematics Undergraduate Student</div>
-      <div class="blog-description">I share my learning path and some insights on natural language processing as a mathematics undergraduate student.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/668a35c8000000001e010600?source=webshare&xhsshare=pc_web&xsec_token=ABl3IEpctnnXxbjsYlUul3nTDdCUYhZP7SljcVPMl9I6s=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2023</div>
-      <img src="images/pic03.jpg" alt="LLMs Technology">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">LLMs: Cutting-Edge Technology and Future Applications</div>
-      <div class="blog-description">My notes from a presentation on LLMs at the Gaoling School of Artificial Intelligence, Renmin University of China.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">August, 2023</div>
-      <img src="images/pic01.jpg" alt="Prompt Engineering">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Prompt Engineering: How to Better Ask LLMs</div>
-      <div class="blog-description">Introduce a number of methods for optimizing the output of large language models and reducing the probability of irrelevant or incorrect responses.</div>
-      <div class="blog-links">
-        <a href="https://sspai.com/post/82322" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-      </div>
     </div>
   </div>
 </div>
+
+# <i class="fas fa-graduation-cap"></i> Educations  
+- *2024.08 - Present*: &nbsp;Doctor of Philosophy, Health Education <span class="primary-gradient-text">Texas A&M University</span>.
+- *2019.09 - 2021.07*: &nbsp;Master of Journalism and Communication, Health Communication <span class="primary-gradient-text">Peking University</span>.
+- *2015.09 - 2019.07*: &nbsp;Bachelor of Engineering, Food Science and Technlogy, <span class="primary-gradient-text">Beijing Forestry University</span>.
+# <i class="fas fa-laptop-code"></i> Professional Expericense
+- *2024.04 - 2024.07*: &nbsp;Research Intern, <a href="https://hcdata.nju.edu.cn/" class="link-accent">Digital Medical Group</a>, **Nanjing University**.
+- *2021.07 - 2023.09*: &nbsp;Research Assistant, Center for Clinical Guidelines Production and Evaluation, GRADE Center of Fudan University</a>, **Children's Hospital of Fudan University**.
+- *2020.12 - 2021.02*: &nbsp;Management training intern, the Outpatient department&Propaganda Department, **Peking Union Medical College Hospital**.
+
