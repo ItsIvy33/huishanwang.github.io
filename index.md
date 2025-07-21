@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
----
+title: home
 
-# Hello, Jekyll!
+# hello, huishan!
 
 permalink: /
 title: ""
@@ -301,96 +300,117 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🐼 Howdy! My name is <span class="accent-text">Huishan Wang</span>, a Ph.D. student at <i class="fas fa-university"></i> <strong> **Texas A&M University** School of Public Health</strong><a href="https://public-health.tamu.edu/" class="link-accent">, where I am fortunate to be advised by <a href="https://shawnchiang.com/" class="link-accent">Dr. Shawn Chiang</a> and co-advised by <a href="https://public-health.tamu.edu/directory/ma.html" class="link-accent">Dr. Ping Ma</a>. I previously worked as a research assistant at <i class="fas fa-hospital-alt"></i> <strong>Children's Hospital of Fudan University</strong> <a href="https://ch.shmu.edu.cn/" class="link-accent">, gaining valuable experience in public health research. Before that, I earned my Master’s degree in Communication from <i class="fas fa-university"></i> <strong>**Peking University**</strong><a href="https://www.pku.edu.cn/" class="link-accent">, under the mentorship of <a href="https://sjc.pku.edu.cn/info/1130/11658.htm" class="link-accent">Prof. Jing Xu</a>. Prior to this, I earned Bachelor’s degree in Food Science and Technology from <i class="fas fa-university"></i> <strong>**Beijing Forestry University**</strong><a href="https://www.bjfu.edu.cn/index.htm/" class="link-accent">.
+🐼 Howdy! My name is <span class="accent-text">Huishan Wang</span>, a Ph.D. student at 
+<i class="fas fa-university"></i> 
+<a href="https://public-health.tamu.edu/" class="link-accent"><strong>Texas A&amp;M University School of Public Health</strong></a>, 
+where I am fortunate to be advised by 
+<a href="https://shawnchiang.com/" class="link-accent"><strong>Dr. Shawn Chiang</strong></a> 
+and co-advised by 
+<a href="https://public-health.tamu.edu/directory/ma.html" class="link-accent"><strong>Dr. Ping Ma</strong></a>.
+I previously worked as a research assistant at 
+<i class="fas fa-hospital-alt"></i> 
+<a href="https://ch.shmu.edu.cn/english" class="link-accent"><strong>Children's Hospital of Fudan University</strong></a>, 
+gaining valuable experience in public health research. 
+Before that, I earned my Master’s degree in Communication from 
+<i class="fas fa-university"></i> 
+<a href="https://www.pku.edu.cn/" class="link-accent"><strong>Peking University</strong></a>, 
+under the mentorship of 
+<a href="https://sjc.pku.edu.cn/info/1130/11658.htm" class="link-accent"><strong>Prof. Jing Xu</strong></a>.
+Prior to this, I earned my Bachelor’s degree in Food Science and Technology from 
+<i class="fas fa-university"></i> 
+<a href="https://www.bjfu.edu.cn/index.htm/" class="link-accent"><strong>Beijing Forestry University</strong></a>.
 
-🎨 Outside of academics, I’m an open-minded and curious person who finds joy in many things. I love journaling and enjoy visiting museums, art exhibits, and wildlife safaris. I’m also a heavy social media user who loves scrolling through videos on TikTok and Rednotes. I also enjoy watching stand-up comedy and all kinds of TV series: my all-time favorite American show is <em>Frasier</em>, and my favorite Japanese anime is <em>Inuyasha</em>. I’m a big fan of gaming too! I enjoy everything from cozy Nintendo Switch games to competitive mobile games, soduku, and so on! Gaming helps me relax, recharge, and connect with others.
+🎨 Outside of academics, I love <strong> 📝 journaling </strong> and love explopring <strong>🖼 ️ art exhibits</strong>, and <strong> 🐽 wildlife safaris</strong>. I also love watching <strong> 🎤 stand-up comedy</strong> and all kinds of TV shows: my all-time favorite is <strong> 📺 <em>Frasier</em></strong>, and my favorite Japanese anime is <strong><em>🍥 Inuyasha</em></strong>. I’m a big fan of 🎮 gaming too! I enjoy everything from cozy <strong>🎮 Nintendo Switch</strong> games to <strong>⚔️ competitive mobile games</strong>, 🧠 <strong>sudoku</strong>, and so on. If you share any of these interest, feel free to reach out! I am always happy to connect and play together! 
 
-Life is full of color, and I try to live mine with energy, creativity, and a good sense of humor.
-
-Feel free to connect with me if you’d like to chat about research—or anything from health communication to life experiences! This site is a reflection of my journey, projects, and passions.
-
-💖 Thanks for visiting!💖
-
+💖 This site is a reflection of my journey, projects, and passions. Thanks for visiting! 💖
 
 <div class="quote-accent">
-My research interests focus on <span class="primary-gradient-text">health communication, mental health, maternal and adolescent health, and the role of social media in shaping health behaviors and perceptions</span>. I am especially interested in how individuals engage with health information, the role of stigma and acculturation in Asian American communities, and the use of social media to improve health outcomes. 
+<span class="primary-gradient-text">She believed she could, so she did.</span>
 </div>
 
-**I am actively seeking research collaboration**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
+🧑‍🎓 My research interests focus on <strong>health communication</strong>, <strong>mental health</strong>, <strong>maternal and adolescent health</strong>, and <strong>the role of social media in shaping health behaviors and perceptions</strong>. I am especially interested in how individuals engage with health information, the role of stigma and acculturation in Asian American communities, and the use of social media to improve health outcomes.
+
+👻 **I am actively seeking research collaboration**. Feel free to reach out, or learn more from <a href="assets/whs CV_PHD_2025.pdf" class="link-accent">My CV</a>.
 
 <div class="highlight-blocks">
+
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> Health Science Researcher</h3>
+    <h3><i class="fas fa-microscope"></i> Health Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text"></span>health communication</li>
-      <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">APHA</span>
+      <li>Research focus on <span class="accent-text">Health Communication</span></li>
+      <li>Internships at <span class="primary-gradient-text">Top Institutions</span></li>
+      <li>Publications at <span class="accent-text">APHA</span></li>
     </ul>
   </div>
-  
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Foodie Explorer</h3>
-    <ul>
-      <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
-    </ul>
-  </div>
-  
+
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
     <ul>
-      <li>Visited <span class="accent-text">5 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
+      <li>Visited <span class="accent-text">5 countries worldwide and 20 provinces </span> in China</li>
+      <li>Binged more than <span class="accent-text"> 30 TV series and Movies </span> </li>
       <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
     </ul>
   </div>
+
 </div>
 
-# <i class="fas fa-fire"></i> News
-- *2025.06*: &nbsp;🎉🎉 One abstract was accepted by The 2025 Annual APHA Conference. See you in Washington D.C.!
-- *2024.08*: &nbsp; Started my Ph.D. journy in Public Health at Texas A&M University.
+<hr>
 
-# <i class="fas fa-file-alt"></i> Publications 
+<h2><i class="fas fa-fire"></i> News</h2>
+<ul>
+   <li><strong>2025.07</strong>: 🎉🎉 Get started on my fitness journey 💪.</li>
+   <li><strong>2025.06</strong>: 🎉🎉 One abstract was accepted by The 2025 Annual APHA Conference. See you in Washington D.C.!</li>
+   <li><strong>2024.08</strong>: 🎉🎉 Started my Ph.D. journey in Public Health at Texas A&M University.</li>
+</ul>
+
+<hr>
+
+<h2><i class="fas fa-file-alt"></i> Publications</h2>
 
 <div class="publication-box">
-  <div class="publication-image">
-    <div class="publication-badge">APHA 2025</div>
-    <img src="images/Example_page-0001.png" alt="DSGram Paper">
-  </div>
   <div class="publication-content">
-    <h3 class="publication-title">Perceived Social Isolation and Health Information Seeking via Social Media Among Cancer Survivors</h3>
+    <h3 class="publication-title">
+      Perceived Social Isolation and Health Information Seeking via Social Media Among Cancer Survivors
+    </h3>
     <div class="publication-authors">
       <strong>Huishan Wang</strong>, Shawn Chiang, Ping Ma
     </div>
     <div class="publication-venue">
       In The Annual American Public Health Association Conference 2025
     </div>
-    </div>
   </div>
 </div>
 
 <div class="publication-box">
-  <div class="publication-image">
-    <img src="images/Example_page-0001.png" alt="DSGram Paper">
-  </div>
   <div class="publication-content">
-    <h3 class="publication-title">Nativity Differences in Awareness and Knowledge About HPV Infection and Vaccination Among Foreign- and US-Born Asians: Findings from a National Population-Based Sample.</h3>
+    <h3 class="publication-title">
+      Nativity Differences in Awareness and Knowledge About HPV Infection and Vaccination Among Foreign- and US-Born Asians: Findings from a National Population-Based Sample
+    </h3>
     <div class="publication-authors">
-       Shawn Chiang, <strong>Huishan Wang</strong>,MS Sifat, Ping Ma
+      Shawn Chiang, <strong>Huishan Wang</strong>, MS Sifat, Ping Ma
     </div>
-    <div class="publication-venue"> 
-      In the American Society of Preventive Oncology Annual Conference
-    </div>
+    <div class="publication-venue">
+      In the American Society of Preventive Oncology Annual Conference 2024
     </div>
   </div>
 </div>
 
-# <i class="fas fa-graduation-cap"></i> Educations  
-- *2024.08 - Present*: &nbsp;Doctor of Philosophy, Health Education <span class="primary-gradient-text">Texas A&M University</span>.
-- *2019.09 - 2021.07*: &nbsp;Master of Journalism and Communication, Health Communication <span class="primary-gradient-text">Peking University</span>.
-- *2015.09 - 2019.07*: &nbsp;Bachelor of Engineering, Food Science and Technlogy, <span class="primary-gradient-text">Beijing Forestry University</span>.
-# <i class="fas fa-laptop-code"></i> Professional Expericense
-- *2024.04 - 2024.07*: &nbsp;Research Intern, <a href="https://hcdata.nju.edu.cn/" class="link-accent">Digital Medical Group</a>, **Nanjing University**.
-- *2021.07 - 2023.09*: &nbsp;Research Assistant, Center for Clinical Guidelines Production and Evaluation, GRADE Center of Fudan University</a>, **Children's Hospital of Fudan University**.
-- *2020.12 - 2021.02*: &nbsp;Management training intern, the Outpatient department&Propaganda Department, **Peking Union Medical College Hospital**.
+
+<hr>
+
+<h2><i class="fas fa-graduation-cap"></i> Education</h2>
+<ul>
+  <li><strong>2024.08 - Present</strong>: Doctor of Philosophy, Health Education, <span class="primary-gradient-text">Texas A&M University</span></li>
+  <li><strong>2019.09 - 2021.07</strong>: Master of Journalism and Communication, Health Communication, <span class="primary-gradient-text">Peking University</span></li>
+  <li><strong>2015.09 - 2019.07</strong>: Bachelor of Engineering, Food Science and Technology, <span class="primary-gradient-text">Beijing Forestry University</span></li>
+</ul>
+
+<hr>
+
+<h2><i class="fas fa-laptop-code"></i> Professional Experience</h2>
+<ul>
+  <li><strong>2024.04 - 2024.07</strong>: Research Intern, <a href="https://hcdata.nju.edu.cn/" class="link-accent">Digital Medical Group</a>, <strong>Nanjing University</strong></li>
+  <li><strong>2021.07 - 2023.09</strong>: Research Assistant, Center for Clinical Guidelines Production and Evaluation, GRADE Center of Fudan University, <strong>Children's Hospital of Fudan University</strong></li>
+  <li><strong>2020.12 - 2021.02</strong>: Management Training Intern, Outpatient Department & Propaganda Department, <strong>Peking Union Medical College Hospital</strong></li>
+</ul>
+

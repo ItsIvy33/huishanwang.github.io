@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "about"
-    url: "/#about-me"
+    url: "#about-me"
 
-  - title: "news"
-    url: "/#-news"
+  - title: "ews"
+    url: "#news"
 
   - title: "education"
-    url: "/#-education"
+    url: "#education"
 
   - title: "publications"
-    url: "/#-publications"
+    url: "#publications"
 
   - title: "professional experience"
-    url: "/#-professional-experience"
+    url: "#professional-experience"
 
   - title: "CV"
-    url: "/docs/PHD_CV_PHD_2025.pdf"
+    url: "assets/whs CV_PHD_2025.pdf"
 
  
  

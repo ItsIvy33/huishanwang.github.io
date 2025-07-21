@@ -70,3 +70,17 @@ Some examples:
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+
+---
+layout: default
+title: Home
+---
+
+# Hello, Jekyll!
+
+---
+
+**总结：**  
+这个操作的目的是确保你的网站有一个首页文件，这样 Jekyll 才能正常生成和显示主页内容，网页就不会是空白的了。
+
+如果你还有疑问，或者操作后还是空白，把你的目录结构和 `index.md` 内容发给我，我帮你继续排查！

@@ -14,7 +14,7 @@ name                     : "Huishan Wang"
 description              : ""
 url                     : "https://huishanwang.github.io"
 baseurl                 : ""
-repository               : "itsivy33.github.io/huishanwang.github.io/"
+repository               : "itsivy33/huishanwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -33,7 +33,7 @@ author:
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=6dCQ3cAAAAAJ"
   email            : "huishanwang@tamu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
