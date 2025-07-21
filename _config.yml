@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Huishan Wang"
-  avatar           : "images/headshot.jpg"
+  avatar           : "images/headshot.JPG"
   bio              : "Texas A&M University"
   location         : "College Station, TX, USA"
   employer         :
