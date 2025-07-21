@@ -313,12 +313,12 @@ I previously worked as a research assistant at
 gaining valuable experience in public health research. 
 Before that, I earned my Master’s degree in Communication from 
 <i class="fas fa-university"></i> 
-<a href="https://www.pku.edu.cn/" class="link-accent"><strong>Peking University</strong></a>, 
+<a href="https://english.pku.edu.cn/" class="link-accent"><strong>Peking University</strong></a>, 
 under the mentorship of 
 <a href="https://sjc.pku.edu.cn/info/1130/11658.htm" class="link-accent"><strong>Prof. Jing Xu</strong></a>.
 Prior to this, I earned my Bachelor’s degree in Food Science and Technology from 
 <i class="fas fa-university"></i> 
-<a href="https://www.bjfu.edu.cn/index.htm/" class="link-accent"><strong>Beijing Forestry University</strong></a>.
+<a href="https://english.bjfu.edu.cn/" class="link-accent"><strong>Beijing Forestry University</strong></a>.
 
 🎨 Outside of academics, I love <strong> 📝 journaling </strong> and love explopring <strong>🖼 ️ art exhibits</strong>, and <strong> 🐽 wildlife safaris</strong>. I also love watching <strong> 🎤 stand-up comedy</strong> and all kinds of TV shows: my all-time favorite is <strong> 📺 <em>Frasier</em></strong>, and my favorite Japanese anime is <strong><em>🍥 Inuyasha</em></strong>. I’m a big fan of 🎮 gaming too! I enjoy everything from cozy <strong>🎮 Nintendo Switch</strong> games to <strong>⚔️ competitive mobile games</strong>, 🧠 <strong>sudoku</strong>, and so on. If you share any of these interest, feel free to reach out! I am always happy to connect and play together! 
 
@@ -330,7 +330,7 @@ Prior to this, I earned my Bachelor’s degree in Food Science and Technology fr
 
 🧑‍🎓 My research interests focus on <strong>health communication</strong>, <strong>mental health</strong>, <strong>maternal and adolescent health</strong>, and <strong>the role of social media in shaping health behaviors and perceptions</strong>. I am especially interested in how individuals engage with health information, the role of stigma and acculturation in Asian American communities, and the use of social media to improve health outcomes.
 
-👻 **I am actively seeking research collaboration**. Feel free to reach out, or learn more from <a href="assets/whs CV_PHD_2025.pdf" class="link-accent">My CV</a>.
+👻 **I am actively seeking research collaboration**. Feel free to reach out, or learn more from <a href="assets/whs_CV_PHD_2025.pdf" class="link-accent">My CV</a>.
 
 <div class="highlight-blocks">
 

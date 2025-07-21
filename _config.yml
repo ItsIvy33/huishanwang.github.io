@@ -12,7 +12,7 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Huishan Wang"
 description              : ""
-url                     : "https://huishanwang.github.io"
+url                     : "https://itsivy33.github.io"
 baseurl                 : ""
 repository               : "itsivy33/huishanwang.github.io"
 google_scholar_stats_use_cdn : true
@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Huishan Wang"
-  avatar           : "images/IMG_3655.jpg"
+  avatar           : "images/headshot.jpg"
   bio              : "Texas A&M University"
   location         : "College Station, TX, USA"
   employer         :

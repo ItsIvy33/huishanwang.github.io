@@ -3,7 +3,7 @@ main:
   - title: "about"
     url: "#about-me"
 
-  - title: "ews"
+  - title: "News"
     url: "#news"
 
   - title: "education"
@@ -16,7 +16,7 @@ main:
     url: "#professional-experience"
 
   - title: "CV"
-    url: "assets/whs CV_PHD_2025.pdf"
+    url: "assets/whs_CV_PHD_2025.pdf"
 
  
  
