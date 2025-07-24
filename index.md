@@ -411,6 +411,6 @@ Prior to this, I earned my Bachelor’s degree in Food Science and Technology fr
 <ul>
   <li><strong>2024.04 - 2024.07</strong>: Research Intern, <a href="https://hcdata.nju.edu.cn/" class="link-accent">Digital Medical Group</a>, <strong>Nanjing University</strong></li>
   <li><strong>2021.07 - 2023.09</strong>: Research Assistant, Center for Clinical Guidelines Production and Evaluation, GRADE Center of Fudan University, <strong>Children's Hospital of Fudan University</strong></li>
-  <li><strong>2020.12 - 2021.02</strong>: Management Training Intern, Outpatient Department & Propaganda Department, <strong>Peking Union Medical College Hospital</strong></li>
+  <li><strong>2020.12 - 2021.02</strong>: Management Training Intern, Outpatient Department & Communication Department, <strong>Peking Union Medical College Hospital</strong></li>
 </ul>
 
